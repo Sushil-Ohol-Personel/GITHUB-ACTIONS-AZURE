@@ -12,7 +12,7 @@ on:
 #   AZURE_RESOURCE_GROUP 
 #   STORAGE_ACCOUNT 
 env:
-  AZURE_RESOURCE_GROUP: sushil-mlops-wsh-rg-1  #set this to your resource group name 
+  AZURE_RESOURCE_GROUP: sushil-githubactions  #set this to your resource group name 
   #STORAGE_ACCOUNT: sushilamlsa          #set this to your storage-account-name
     
 jobs:
